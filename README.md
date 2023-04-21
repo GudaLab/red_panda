@@ -55,5 +55,5 @@ As of right now, Red Panda works with samtools versions 0.1.19–1.8. However, i
 #### GATK HaplotypeCaller
 Feel free to use the most up-to-date version of GATK HaplotypeCaller on the variants generated in the "data/vcf/to_check" directory.
 
-##cite
+## cite
 Cornish A, Roychoudhury S, Sarma K, Pramanik S, Bhakat K, Dudley A, Mishra NK, Guda C. Red panda: a novel method for detecting variants in single-cell RNA sequencing. BMC Genomics. 2020 Dec 29;21(Suppl 11):830. doi: 10.1186/s12864-020-07224-3. PMID: 33372593; PMCID: PMC7771073.
